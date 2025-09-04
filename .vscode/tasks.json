@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Retail Sales Analysis",
+			"type": "shell",
+			"command": "C:/Users/Nischay Dhamija/OneDrive/Documents/LAB WORK/Retail Sales Performance Analysis/.venv/Scripts/python.exe",
+			"args": [
+				"main.py"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
